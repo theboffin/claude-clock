@@ -1,0 +1,6 @@
+{
+  "name": "clock",
+  "version": "0.1.0",
+  "description": "Logs when each turn started and finished, and tells Claude the local time with each prompt",
+  "types": "./types/index.d.ts"
+}

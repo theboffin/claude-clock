@@ -1,0 +1,5 @@
+{
+  "name": "bdukes-mods",
+  "owner": { "name": "theboffin" },
+  "plugins": [{ "name": "clock", "source": "./" }]
+}
